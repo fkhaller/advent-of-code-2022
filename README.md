@@ -1,7 +1,6 @@
 Advent of Code
 -------------------
 
-Solved with python using Jupyter Notebooks.
+Solved with python in Jupyter Lab.
 
-Installation of Jupyter Notebooks
--------------------
+https://jupyter.org/install
